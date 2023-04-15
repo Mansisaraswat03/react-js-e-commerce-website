@@ -3,9 +3,6 @@
 A Ecommerce Website made with React.js Framework.
 
 
-## Demo
-
-https://reactjs-ecommerce-app.vercel.app/
 
 ## Features
 
@@ -13,9 +10,6 @@ https://reactjs-ecommerce-app.vercel.app/
 - Fully Responsive
 
 
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
 
 
 
@@ -24,8 +18,7 @@ https://reactjs-ecommerce-app.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
-```
+  git clone "https://github.com/Mansisaraswat03/react-js-e-commerce-website.git"
 
 Go to the project directory
 
@@ -62,6 +55,6 @@ Just raise an issue, we will discuss it.
 
 ## Feedback
 
-If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
+If you have any feedback, please reach out to me [here](https://github.com/Mansisaraswat03)
 
 
